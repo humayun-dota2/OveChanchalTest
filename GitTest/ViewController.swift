@@ -24,6 +24,13 @@ class ViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        print("SOmething new")
+        print("SOmething new 2")
+        print("SOmething new 3")
+        print("SOmething new 4")
+        print("SOmething new 5")
+        print("SOmething new 6")
+
     }
 
 
