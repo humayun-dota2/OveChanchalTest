@@ -16,6 +16,14 @@ class ViewController: UIViewController {
         print("initial Commit")
         print("okokokok")
         self.isEditing = true
+        
+        self.isEditing = false
+        print("Amar khushi ami lekhbo ")
+    }
+    
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
     }
 
 
