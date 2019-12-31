@@ -16,6 +16,13 @@ class ViewController: UIViewController {
         print("initial Commit")
         print("okokokok")
         self.isEditing = true
+        print("SOmething new")
+        print("SOmething new 2")
+        print("SOmething new 3")
+        print("SOmething new 4")
+        print("SOmething new 5")
+        print("SOmething new 6")
+
     }
 
 
