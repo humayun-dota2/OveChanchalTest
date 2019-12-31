@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var i : Int?
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -31,6 +33,24 @@ class ViewController: UIViewController {
         print("SOmething new 5")
         print("SOmething new 6")
 
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        
+        
+        
+        
+        if i == nil {
+            
+            print("let the hunt begin")
+        }
+        
+        
+        
+        
+        
     }
 
 
